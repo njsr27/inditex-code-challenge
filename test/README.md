@@ -5,16 +5,16 @@
 ### Installation
 
 1. Clone the project from the
-   gitlab [repo](https://gitlab.agilecontent.com/tech-challenges/Nicolas-Saavedra-java-backend-code-callenge)
+   gitlab [repo](https://github.com/njsr27/inditex-code-challenge)
 
 ```sh
-  git clone git@gitlab.agilecontent.com:tech-challenges/Nicolas-Saavedra-java-backend-code-callenge.git
+  git clone https://github.com/njsr27/inditex-code-challenge.git
 ```
 
-2. Open a **Terminal** at the root of the project and move to the `demo` folder
+2. Open a **Terminal** at the root of the project and move to the `challenge` folder
 
 ```sh
-  cd .\demo\
+  cd .\challenge\
 ```
 
 3. Here, you can execute the command below to run the application:
@@ -47,7 +47,7 @@ User name: sa
 Password: 
 ```
 
-In this case, the table `TBL_USERS` will be the one we use for this service, it should have 5 entities created as base
+In this case, the table `TBL_PRICES` will be the one we use for this service, it should have 4 entities created as base
 
 ### Swagger
 
@@ -60,6 +60,6 @@ http://localhost:8080/swagger-ui/index.html
 ### Postman
 
 To test the service, under the directory `test` at the root of the project, you can find the
-file `CodeChallenge.postman_collection.json`
+file `K-LAGAN.postman_collection.json`
 which includes the Postman collection that can be imported, with the endpoints of the service plus some extra
 endpoints to test errors
