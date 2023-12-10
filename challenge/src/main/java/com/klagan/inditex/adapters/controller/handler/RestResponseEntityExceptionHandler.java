@@ -1,4 +1,4 @@
-package com.klagan.inditex.adapters.exception.handler;
+package com.klagan.inditex.adapters.controller.handler;
 
 import com.klagan.inditex.adapters.controller.response.CustomErrorResponseBody;
 import com.klagan.inditex.adapters.exception.InvalidRequestException;
