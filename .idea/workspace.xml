@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec29ac62-ca64-471b-a52a-dacce5a9196d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ZKBUr8Mb32WOyxSrwWCKJgPJSH" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DemoApplication.executor": "Run",
+    "JUnit.PricesControllerErrorTest.executor": "Debug",
+    "JUnit.PricesControllerErrorTest.handleDateTimeParseException_ReturnsBadRequestWithCustomErrorBody.executor": "Debug",
+    "JUnit.PricesControllerErrorTest.testErrorNotFound.executor": "Debug",
+    "JUnit.PricesControllerTest.executor": "Run",
+    "JUnit.PricesControllerTest.getPricesDetailsErrorTestNotFound.executor": "Run",
+    "JUnit.PricesControllerTest.getPricesDetailsOkTest1.executor": "Run",
+    "JUnit.PricesControllerTest.getUsersRetrievesCorrectly.executor": "Run",
+    "JUnit.PricesControllerTest.testErrorInvalidDateFormat.executor": "Run",
+    "JUnit.PricesControllerTest.testErrorNotFound.executor": "Run",
+    "JUnit.PricesControllerTest.testErrorNullQueryParams.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/nicolas/Desktop/Klagan challenge/challenge",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.demo.controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo.exception" />
+      <recent name="com.example.demo.service.validator" />
+      <recent name="com.example.demo.controller.request" />
+      <recent name="com.example.demo.model" />
+      <recent name="com.example.demo.persistence.entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DemoApplication">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/corretto-17.0.9" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.klagan.inditex.DemoApplication" />
+      <module name="prices-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.klagan.inditex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PricesControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.klagan.inditex.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.klagan.inditex.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.klagan.inditex.controller.PricesControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PricesControllerTest.testErrorInvalidDateFormat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.klagan.inditex.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.klagan.inditex.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.klagan.inditex.controller.PricesControllerTest" />
+      <option name="METHOD_NAME" value="testErrorInvalidDateFormat" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PricesControllerTest.testErrorNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.klagan.inditex.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.klagan.inditex.controller.PricesControllerTest" />
+      <option name="METHOD_NAME" value="testErrorNotFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PricesControllerTest.testErrorNullQueryParams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.klagan.inditex.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.klagan.inditex.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.klagan.inditex.controller.PricesControllerTest" />
+      <option name="METHOD_NAME" value="testErrorNullQueryParams" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="challenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="challenge" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DemoApplication" />
+      <item itemvalue="JUnit.PricesControllerTest" />
+      <item itemvalue="JUnit.PricesControllerTest.testErrorInvalidDateFormat" />
+      <item itemvalue="JUnit.PricesControllerTest.testErrorNotFound" />
+      <item itemvalue="JUnit.PricesControllerTest.testErrorNullQueryParams" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="JUnit.PricesControllerTest" />
+        <item itemvalue="JUnit.PricesControllerTest.testErrorNullQueryParams" />
+        <item itemvalue="JUnit.PricesControllerTest.testErrorInvalidDateFormat" />
+        <item itemvalue="JUnit.PricesControllerTest.testErrorNotFound" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-8336523bb0d9-0b85dddc" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec29ac62-ca64-471b-a52a-dacce5a9196d" name="Changes" comment="" />
+      <created>1702160908514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702160908514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/klagan/inditex/service/PricesService.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/klagan/inditex/service/mapper/PricesEntityToPricesMapper.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/klagan/inditex/service/PricesService.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/klagan/inditex/service/PricesService.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/klagan/inditex/service/PricesService.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/klagan/inditex/service/PricesService.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/klagan/inditex/controller/PricesController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/klagan/inditex/controller/PricesController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/klagan/inditex/controller/PricesController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/klagan/inditex/controller/PricesController.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/klagan/inditex/controller/PricesController.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/klagan/inditex/controller/PricesController.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/klagan/inditex/controller/PricesController.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/klagan/inditex/controller/PricesController.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/klagan/inditex/controller/PricesController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.example.demo.controller.PricesController" memberName="pricesService" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
