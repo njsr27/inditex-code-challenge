@@ -58,3 +58,4 @@ Resultados correctos en los test.
 
 Instructions to run and test the application are in the *README.md* file inside the folder *test*, found at the root of the project.
 Date format in the code was used to apply the same format that was applied here.
+Some layers of the Hexagonal Architecture pattern were used due to not being needed, but any suggestion of improvement is welcome.
