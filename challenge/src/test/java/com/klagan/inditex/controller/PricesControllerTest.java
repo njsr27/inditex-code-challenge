@@ -1,9 +1,10 @@
 package com.klagan.inditex.controller;
 
-import com.klagan.inditex.controller.request.GetPricesDetailsRequest;
-import com.klagan.inditex.controller.response.GetPricesDetailsResponse;
-import com.klagan.inditex.exception.InvalidRequestException;
-import com.klagan.inditex.exception.PricesNotFoundException;
+import com.klagan.inditex.adapters.controller.PricesController;
+import com.klagan.inditex.adapters.controller.request.GetPricesDetailsRequest;
+import com.klagan.inditex.adapters.controller.response.GetPricesDetailsResponse;
+import com.klagan.inditex.adapters.exception.InvalidRequestException;
+import com.klagan.inditex.adapters.exception.PricesNotFoundException;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
