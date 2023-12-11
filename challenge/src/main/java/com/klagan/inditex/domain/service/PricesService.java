@@ -21,11 +21,13 @@ public class PricesService {
     private final DateFormatter formatter;
 
     public Prices getPricesDetails(String date, Integer productId, Integer brandId) {
-        LocalDateTime formattedDate = formatter.format(date);
-        PricesEntity pricesDetails = pricesRepository.getPricesDetails(formattedDate, productId, brandId);
-        PricesEntity validate = validator.validate(pricesDetails, productId, brandId);
-        Prices map = pricesMapper.map(validate);
-        return map;
+        return pricesMapper.map(
+            validator.validate(
+                pricesRepository.getPricesDetails(formatter.format(date), productId, brandId),
+                productId,
+                brandId
+            )
+        );
     }
 
 }
